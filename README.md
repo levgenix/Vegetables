@@ -1,5 +1,5 @@
 Vegetables
 ==========
 
-Dictionary Demo
+Dictionary Demo. 
 Swift's Dictionary example
